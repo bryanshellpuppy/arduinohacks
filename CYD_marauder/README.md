@@ -25,6 +25,6 @@ Purchase: (Links are provided using my Affilate account. This provides a few pen
 <p>Qty 1    1 4 pin cable provided with the cheap yellow display, you can buy seprately or directly solder.</p>
 <p>&nbsp;</p>
 <p>Optional for External Antenna Upgrade</p>
-<p>Qty 1    1 f.ul to SMA cable for a wifi antenna</p>
-<p>Qty 1    1 male f.ul solder on connector (if you want external antenna)</p>
-<p>Qty 1    Wifi SMA antenna - Male SMA</p>
+<p>Qty 1    1 f.ul to SMA cable for a wifi antenna <a href="https://amzn.to/3zuX7lw">Affiliate Link</a></p>
+<p>Qty 1    1 male f.ul solder on connector (if you want external antenna) <a href="https://amzn.to/4eCqgud">Affiliate Link</a></p>
+<p>Qty 1    Wifi SMA antenna - Male SMA <a href="https://amzn.to/3XUViYL">Affiliate Link</a></p>
