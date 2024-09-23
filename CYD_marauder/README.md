@@ -76,4 +76,6 @@ route, the case is ready for the SMA antenna and u.fl to SMA wire. Please
 proceed at your own risk on this. I melted several of these tiny connectors 
 before I figured out just how to solder it.</p><img src="https://github.com/bryanshellpuppy/arduinohacks/blob/main/CYD_marauder/Images/IMG_3845.png?raw=true">
 <p>&nbsp;</p>
+<h2>Flash the Device</h2>
+<a href="https://github.com/bryanshellpuppy/arduinohacks/blob/main/CYD_marauder/Arduino.md">Link to Flash Information</a>
 <p>&nbsp;</p>
