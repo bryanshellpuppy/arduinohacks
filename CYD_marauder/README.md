@@ -32,6 +32,7 @@ Purchase: (Links are provided using my Affiliate account. This provides a few pe
 Building the Charge Power Circuit:
 <p>&nbsp;</p>
 First layout your parts. Solder the batter connector to the BAT + and -. Do not hookup power to the board until completely done just in case of an error. Polarity is important.
+<p><img src="https://github.com/bryanshellpuppy/arduinohacks/blob/main/CYD_marauder/Images/IMG_3851-2.png"></p>
 Solder the device power cable (4-pin) positive to one side of the lock switch (power button) solder a red wire from the power button to the + out on the board. This will cut the power when button is unlocked. Solder the black Neg wire from the (4-pin) cable to the - out of the battery charge board.
 <p>&nbsp;</p>
 Solder the + side next to the USB port on the board or + IN to a red wire, then solder it to the V+ on the micro USB breakout board. Solder a black wire to the - IN pad next to the micro USB port on the charge board. Then solder the other end to the V- on the micro USB board. This will allow a micro USB cable to charge the battery even if the switch is off.
