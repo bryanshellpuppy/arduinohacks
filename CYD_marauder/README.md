@@ -51,7 +51,13 @@ Connect the battery to the female connector using the correct polarity. To test 
 <p>&nbsp;</p>
 Once connected, if a red light on the back of the display does not illuminate, press the yellow power button. This should cause the display to boot up into a test application, unless you have already flashed it with Marauder 1.0.0.
 <p>&nbsp;</p>
-After all the testing is complete you can affix the board, battery and power button in the 3d-printed case. If you have chosen to use an External WIFI antenna (Advanced users only) then you will want to follow the instructions on scraping the traces and adding a f.ul port to the ESP32 board. This is very tedious work and the parts are VERY small. I melted several of the connectors before I got the hang of it so be careful.<br>
+After all the testing is complete you can affix the board, battery and power button in the 3d-printed case. 
+
+<br>
+<img src="https://raw.githubusercontent.com/bryanshellpuppy/arduinohacks/refs/heads/main/CYD_marauder/Images/IMG_3839.png"><br>
+
+
+If you have chosen to use an External WIFI antenna (Advanced users only) then you will want to follow the instructions on scraping the traces and adding a f.ul port to the ESP32 board. This is very tedious work and the parts are VERY small. I melted several of the connectors before I got the hang of it so be careful.<br>
 <p>&nbsp;</p>
 If you want to add the External WIFI antenna, you can do it a few different 
 ways. All are more advanced and I am not showing you how but giving you some 
