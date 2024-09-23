@@ -14,14 +14,14 @@
 
 ALLWAYS CHECK YOUR POLARITY. Boards, cables, and devices do not follow a standard and you will cook stuff if your not careful.
 
-Purchase:
+Purchase: (Links are provided using my Affilate account. This provides a few pennies when you buy the product from Aamazon. I do not promote specific products for greater commission.)
 
-<p>Qty 1    Cheap Yellow Display ESP32-2432S028 Resistive Display (2.8")</p>
-<p>Qty 1    USB to Lipo charge circuit board</p>
-<p>QTY 1    1100MAH LI Battery (Small to fit in case)</p>
-<p>Qty 1    Power Button</p>
-<p>Qty 1    Micro USB Female breakout board (Either 90 degree or standard)</p>
-<p>Qty 1    2 pin Female battery cable with connector (or solder directly to the board</p>
+<p>Qty 1    Cheap Yellow Display ESP32-2432S028 Resistive Display (2.8") <a href="https://amzn.to/3TCveyI">Amazon Affiliate Link</a></p>
+<p>Qty 1    USB to Lipo charge circuit board <a href="https://amzn.to/3ZBCbUG">Affiliate Link</a></p>
+<p>QTY 1    1100MAH LI Battery (Small to fit in case)<a href="https://amzn.to/3BbIl3Q">Affiliate Link</a></p>
+<p>Qty 1    Power Button <a href="https://amzn.to/3XSu0C7">Affiliate Link</a></p>
+<p>Qty 1    Micro USB Female breakout board (Either 90 degree or standard)<a href=https://amzn.to/4eBf7Ka">Affiliate Link</a></p>
+<p>Qty 1    2 pin Female battery cable with connector (or solder directly to the board <a href="https://amzn.to/47DUniv">Affiliate Link</a></p>
 <p>Qty 1    1 4 pin cable provided with the cheap yellow display, you can buy seprately or directly solder.</p>
 <p>&nbsp;</p>
 <p>Optional for External Antenna Upgrade</p>
