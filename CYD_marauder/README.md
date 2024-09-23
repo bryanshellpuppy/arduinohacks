@@ -1,4 +1,6 @@
 <p>CHEAP YELLOW DISPLAY PROJECT ESP32-2432S028</p>
+<img src="https://github.com/bryanshellpuppy/arduinohacks/blob/main/CYD_marauder/Images/front.png?raw=true"><br>
+<img src="https://github.com/bryanshellpuppy/arduinohacks/blob/main/CYD_marauder/Images/back.png?raw=true"><br>
 <p>Cheap Yellow Display hacked to be Li Powered with power button, charger, enlarged case and minimal soldering. Most of my projects start out rough and then I refine compromises.</p>
 <ul>
     <li>Li Charger Board from Amazon with Micro USB charging going through a micro usb breakout board I had.</li>
@@ -72,6 +74,6 @@ instructions on how to do this. You can google at your own risk. I have however
 provided a front cover with the antenna addition so that if you do go this 
 route, the case is ready for the SMA antenna and u.fl to SMA wire. Please 
 proceed at your own risk on this. I melted several of these tiny connectors 
-before I figured out just how to solder it.</p>
+before I figured out just how to solder it.</p><img src="https://github.com/bryanshellpuppy/arduinohacks/blob/main/CYD_marauder/Images/IMG_3845.png?raw=true">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
