@@ -13,3 +13,18 @@
 <p><img src="https://github.com/bryanshellpuppy/arduinohacks/blob/main/Images/power_supply_design.png"><br>&nbsp;</p>
 
 ALLWAYS CHECK YOUR POLARITY. Boards, cables, and devices do not follow a standard and you will cook stuff if your not careful.
+
+Purchase:
+
+<p>Qty 1    Cheap Yellow Display ESP32-2432S028 Resistive Display (2.8")</p>
+<p>Qty 1    USB to Lipo charge circuit board</p>
+<p>QTY 1    1100MAH LI Battery (Small to fit in case)</p>
+<p>Qty 1    Power Button</p>
+<p>Qty 1    Micro USB Female breakout board (Either 90 degree or standard)</p>
+<p>Qty 1    2 pin Female battery cable with connector (or solder directly to the board</p>
+<p>Qty 1    1 4 pin cable provided with the cheap yellow display, you can buy seprately or directly solder.</p>
+<p>&nbsp;</p>
+<p>Optional for External Antenna Upgrade</p>
+<p>Qty 1    1 f.ul to SMA cable for a wifi antenna</p>
+<p>Qty 1    1 male f.ul solder on connector (if you want external antenna)</p>
+<p>Qty 1    Wifi SMA antenna - Male SMA</p>
