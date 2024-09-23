@@ -1,12 +1,3 @@
-
-<head>
-<style type="text/css">
-.auto-style1 {
-	background-color: #FFFF00;
-}
-</style>
-</head>
-
 <p>CHEAP YELLOW DISPLAY PROJECT ESP32-2432S028</p>
 <p>Cheap Yellow Display hacked to be Li Powered with power button, charger, enlarged case and minimal soldering. Most of my projects start out rough and then I refine compromises.</p>
 <ul>
@@ -62,8 +53,8 @@ After all the testing is complete you can affix the board, battery and power but
 <p>&nbsp;</p>
 If you want to add the External WIFI antenna, you can do it a few different 
 ways. All are more advanced and I am not showing you how but giving you some 
-refrences if you want to attempt it. You could brick your device or destroy the 
-wifi on the board.<p>&nbsp;</p>
+references if you want to attempt it. You could brick your device or destroy the 
+WIFI on the board.<p>&nbsp;</p>
 &nbsp;<p>One way is to hard wire the antenna wire, such as this person did:
 <a href="https://community.home-assistant.io/t/how-to-add-an-external-antenna-to-an-esp-board/131601">
 https://community.home-assistant.io/t/how-to-add-an-external-antenna-to-an-esp-board/131601</a></p>
@@ -72,11 +63,11 @@ https://community.home-assistant.io/t/how-to-add-an-external-antenna-to-an-esp-b
 https://www.youtube.com/watch?app=desktop&amp;v=-8hxk81H6QI</a></p>
 <p>&nbsp;</p>
 <p>I did something that I have done on a Pi Zero 2, I scraped the trace and 
-scraped away the trace between + and - of the anttenna. Then I carfuly soldered 
-on a u.fl connector, burning my hands alot. There is only one way this can go 
+scraped away the trace between + and - of the antenna. Then I carefully soldered 
+on a u.fl connector, burning my hands a lot. There is only one way this can go 
 on, its very hard to get it just right and I would recommend against it unless 
 you know what your doing. You need a tiny solder tip on a very accurate solder 
-station or you will burn or melt something. This is why I am not giving 
+station or you will burn or melt something. <br>This is why I am not giving 
 instructions on how to do this. You can google at your own risk. I have however 
 provided a front cover with the antenna addition so that if you do go this 
 route, the case is ready for the SMA antenna and u.fl to SMA wire. Please 
